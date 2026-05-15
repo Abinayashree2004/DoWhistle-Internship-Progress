@@ -23,3 +23,12 @@ https://developers.openai.com/api/docs
 Resources
 https://developers.openai.com/api/docs
 
+#Day 3 - 15 May 2026
+### Learning Today 
+1. Image and Audio Generation Basics
+2. Vision and File Upload Concepts
+3. Introduction to Fine-Tuning
+4. Basics of AI Agents
+
+Resources 
+https://developers.openai.com/api/docs
