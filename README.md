@@ -32,3 +32,19 @@ https://developers.openai.com/api/docs
 
 Resources 
 https://developers.openai.com/api/docs
+
+# Day 4 - 16 May 2026
+### Learning Today
+1.Introduction to LangChain framework
+2.LLM integration concepts
+3.Prompt templates
+4.Chains and sequential workflows
+5.Memory handling in AI applications
+6.Chat models
+7.Output parsers
+8.Streaming responses
+9.AI workflow concepts
+10.Building AI-powered applications and chatbots using LangChain
+
+Resources 
+https://docs.langchain.com/oss/python/learn
