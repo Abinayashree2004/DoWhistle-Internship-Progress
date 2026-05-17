@@ -48,3 +48,15 @@ https://developers.openai.com/api/docs
 
 Resources 
 https://docs.langchain.com/oss/python/learn
+
+# Day 5 - 17 May 2026
+### Learning Today 
+1.Embeddings and vector representations
+2.Retrieval Augmented Generation (RAG)
+3.AI agents
+4.LangGraph basics
+5.Multi-agent systems
+6.Context engineering
+
+Resources 
+https://docs.langchain.com/oss/python/learn
